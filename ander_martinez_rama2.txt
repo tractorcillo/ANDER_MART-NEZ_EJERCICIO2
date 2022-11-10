@@ -1,1 +1,2 @@
 Segundo documento de la rama creada
+Segunda linea del segundo documento
