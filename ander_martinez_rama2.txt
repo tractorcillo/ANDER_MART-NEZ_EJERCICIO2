@@ -1,1 +1,5 @@
 Segundo documento de la rama creada
+<<<<<<< HEAD
+=======
+Segunda linea del segundo documento
+>>>>>>> 0a56b2cdf580a07efd1728736cf0ba072c713619
